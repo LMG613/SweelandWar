@@ -1,0 +1,14 @@
+{
+"companyName": "LMG Game Studio",
+"productName": "Sweeland War",
+"dataUrl": "git.data.unityweb",
+"wasmCodeUrl": "git.wasm.code.unityweb",
+"wasmFrameworkUrl": "git.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "git.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
